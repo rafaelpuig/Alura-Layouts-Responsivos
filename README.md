@@ -1,2 +1,2 @@
-# Alura-Layouts-Responsivos
-Estudos relativos a formação Front-End da Alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
